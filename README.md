@@ -1,6 +1,9 @@
 1.)Made a Speaker Recognition model using 30 different GMMs for 30 speakers
+
 2.)Tensorflow Speech Recognition Dataset utilized.
+
 3.)Used classical ML techniques and data augmentation to achieve an accuracy of 85%
+
 4.)Features like MFCCs, deltas and spectral centroids utilized.
 
 Some Observations and Results :-)
